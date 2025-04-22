@@ -61,7 +61,7 @@ You may cite this work as:
 
 ```
 Sanderson, D. (2025). CHUNGUS: A Symbolic Trust Architecture. GitHub Repository.
-https://github.com/YOUR_USERNAME/CHUNGUS-Whitepaper
+https://github.com/Chungmaster1337/CHUNGUS-Whitepaper
 ```
 
 ## License
