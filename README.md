@@ -1,8 +1,8 @@
 
 # CHUNGUS Symbolic Trust Architecture
 
-**CHUNGUS** (Compartmentalized Heuristic Unit for Non-Generalizable Unforgeable Symbolics) is a novel post-cryptographic trust model. It replaces traditional key-based enforcement with symbolic logic interpretation, visual layout attestation, timing synchronization, and quorum-based resolution to govern data access and interpretation.
-
+**CHUNGUS** (Compartmentalized Heuristic Unit for Non-Generalizable Unforgeable Symbolics) is a novel post-cryptographic trust model. It supplements traditional key-based enforcement with symbolic logic interpretation, visual layout attestation, timing synchronization, and quorum-based resolution to govern data access and interpretation.
+**What CHUNGUS Is Not** CHUNGUS is not a direct replacement for standard cryptographic methodologies.
 ## Abstract
 
 In contrast to conventional architectures where access is determined by secret possession or policy enforcement, CHUNGUS enforces interpretive trust. Meaning cannot emerge from data unless symbolic conditions are provably satisfied. CHUNGUS introduces:
