@@ -22,7 +22,7 @@ The system is layered, observable, fail-closed, and designed for high-assurance 
 ├── CHUNGUS_Executive_Summary_FINAL.md
 ├── CHUNGUS_Trust_Architecture_Whitepaper_COMPLETE_FINAL.md
 ├── CHUNGUS_MetaOSI_Appendix_B_ONLY.md
-├── Chungus Whitepaper.md
+├── Chungus_Whitepaper.md
 ├── diagrams/              # (Optional) Symbolic trust flowcharts, FK resolution maps, timing frames
 ├── README.md
 ```
@@ -38,7 +38,7 @@ The system is layered, observable, fail-closed, and designed for high-assurance 
 - **[Meta-OSI Appendix](CHUNGUS_MetaOSI_Appendix_B_ONLY.md)**  
   Explores CHUNGUS as a logical layer above OSI L7—“Layer 8½”.
 
-- **[Philosophical Preface + Original Draft](Chungus Whitepaper.md)**  
+- **[Philosophical Preface + Original Draft](Chungus_Whitepaper.md)**  
   Ontological framing and historical context of symbolic trust enforcement.
 
 ## How to Engage
