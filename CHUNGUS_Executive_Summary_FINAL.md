@@ -3,7 +3,7 @@ Executive Summary
 # What Problem Does CHUNGUS Solve?
 Traditional security models rely on cryptographic secrecy and access control to define trust. Once breached, systems lose the ability to control or even detect unauthorized interpretation of data. This model has failed repeatedly in high-impact attacks, from ransomware to insider exfiltration.
 # What Is CHUNGUS?
-CHUNGUS:(Compartmentalized Heuristic Unit for Non-Generalizable Unforgeable Symbolics) is a post-cryptographic trust architecture that shifts the authority of access from secret keys to symbolic logic validation. It gates not just data access, but the very interpretation of data—requiring quorum-based symbolic logic, visual attestation (VCAL), and logic frame synchronization (SLFP) for any information to become meaningful.
+CHUNGUS:(Compartmentalized Heuristic Unit for Non-Generalizable Unforgeable Symbolics) is a post-cryptographic trust architecture that shifts the authority of access from secret keys to symbolic logic validation. It gates not just data access, but the very interpretation of data requiring quorum-based symbolic logic, visual attestation (VCAL), and logic frame synchronization (SLFP) for any information to become meaningful.
 # What Makes CHUNGUS Different?
 - Data can exist, but cannot be interpreted unless symbolic FK logic passes validation.
 - FK resolution is logic-driven, quorum-backed, and sealed per epoch.
