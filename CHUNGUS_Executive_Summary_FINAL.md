@@ -13,7 +13,7 @@ CHUNGUS:(Compartmentalized Heuristic Unit for Non-Generalizable Unforgeable Symb
 # Why Now?
 As cryptographic systems face increasing complexity, implementation flaws, and quantum-era uncertainty, CHUNGUS offers a paradigm shift. It treats logic as proof, structure as policy, and symbolic state as the arbiter of access forming a layered, extensible model suited to forensic, critical infrastructure, and anti-ransomware use cases.
 # Who Should Read This?
-- - Security architects seeking tamper-evident or air-gapped systems
+- Security architects seeking tamper-evident or air-gapped systems
 - Forensic technologists designing evidence lifecycle controls
 - Researchers exploring post-cryptographic trust frameworks
 - Engineers working on visual logic, symbolic computation, or embedded validation
