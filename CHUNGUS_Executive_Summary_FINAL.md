@@ -18,8 +18,8 @@ As cryptographic systems face increasing complexity, implementation flaws, and q
 - Researchers exploring post-cryptographic trust frameworks
 - Engineers working on visual logic, symbolic computation, or embedded validation
 # What’s Inside the Whitepaper?
-- A detailed system model for CHUNGUS core and symbolic enforcement
-- Diagrams showing FK resolution flow, user session trust chains, and visual logic synchronization
-- Threat model and ransomware defense matrix
-- Philosophical framing of CHUNGUS in post-OSI and meta-cryptographic terms
-- A prototype implementation map and extension roadmap
+- A detailed system model for CHUNGUS core and symbolic enforcement (incomplete)
+- Diagrams showing FK resolution flow, user session trust chains, and visual logic synchronization (missing/incomplete)
+- Threat model and ransomware defense matrix (incomplete)
+- Philosophical framing of CHUNGUS in post-OSI and meta-cryptographic terms (complete)
+- A prototype implementation map and extension roadmap (incomplete)
